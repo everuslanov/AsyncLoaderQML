@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomControl.qml</file>
+        <file>CustomControlContentStyle.qml</file>
+        <file>ContentView.qml</file>
+        <file>CustomControlBackgroundStyle.qml</file>
+    </qresource>
+</RCC>
