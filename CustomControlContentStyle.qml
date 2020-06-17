@@ -6,7 +6,7 @@ Item {
     property QtObject control
 
     Repeater {
-        model: 20
+        model: 1
         delegate: Text {
             anchors.centerIn: parent
             text: "Hello World2"
